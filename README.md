@@ -9,19 +9,24 @@
 **Modul and functionalities**
 
 * *Add data*
+
 User input the delivery details in the parcel section before delivery process is occurs
  
 * *Display data*
+
 This application can display back all the data that the user enter before they make the post item process 
 
 * *Update data*
+
 If the user want to update their parcel profile, they can update their parcel profile in the parcel section that they already enter.
 
 
 * *Delete data*
+
 User also can delete their parcel data if they want to cancel the booking item of delivery process
 
 * *User Feedback*
+
 Feedback section will make user to call, email and sms to admin if they want to give any comment or feedback about this application
 
 
