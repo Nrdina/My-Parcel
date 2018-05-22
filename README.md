@@ -33,14 +33,14 @@ Feedback section will make user to call, email and sms to admin if they want to 
 
 **Here is how to setup the development environment**
 		
-1) Download and install XAMPP							
+:one: Download and install XAMPP							
 
-2) Open XAMPP Control Panel, and then click start on Apache and MySQL	
+:two: Open XAMPP Control Panel, and then click start on Apache and MySQL	
 
-3) Open Android Studio Project				
+:three: Open Android Studio Project				
 
-4) Change the IP address from LoginRequest.java and RegisterRequest.java file to your IP address
+:four: Change the IP address from LoginRequest.java and RegisterRequest.java file to your IP address
 
-5) Run the project on emulator or any device	
+:five: Run the project on emulator or any device	
 
 
